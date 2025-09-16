@@ -1,1 +1,3 @@
-print = "Hello, World"
+name = "Alice"
+greeting = "Hello, " + name + "!"
+print(greeting)
